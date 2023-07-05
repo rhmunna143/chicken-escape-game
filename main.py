@@ -78,3 +78,5 @@ while keep_alive:
 
     pygame.display.update()
     clock.tick(60)
+
+# This is a comment
